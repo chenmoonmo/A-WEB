@@ -2,5 +2,3 @@
 KK  
 oo
 00  
-    asdasd 
-
